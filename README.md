@@ -1,1 +1,3 @@
 # -ContentProvider-ContentResolver
+
+主要是为了回顾一下ContentProvider和ContentResolver
