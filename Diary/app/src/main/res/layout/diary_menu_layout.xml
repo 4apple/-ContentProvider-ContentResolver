@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="60dp">
+    <!--<View-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="1dp"-->
+        <!--android:background="#a3a3a5"/>-->
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:text="add a new diary"
+        android:id="@+id/addNewDiary"
+        android:gravity="center"/>
+    <View
+        android:layout_width="1dp"
+        android:layout_height="60dp"
+        android:background="#a3a3a5"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:text="set password"
+        android:id="@+id/setPassword"
+        android:gravity="center"/>
+</LinearLayout>

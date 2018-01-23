@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="empty_tips">you have not yet write a diary,click the menu below to start a diary </string>
+</resources>
